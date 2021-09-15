@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Média aritmética - Aleandro Matheus/1.0.0": {
+        "runtime": {
+          "Média aritmética - Aleandro Matheus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Média aritmética - Aleandro Matheus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
