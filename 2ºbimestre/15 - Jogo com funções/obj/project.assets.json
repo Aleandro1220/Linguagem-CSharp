@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\2º bimestre\\15 - Jogo com funções\\15 - Jogo com funções.csproj",
+      "projectUniqueName": "C:\\Users\\malea\\OneDrive\\Documents\\GitHub\\Linguagem-CSharp\\2ºbimestre\\15 - Jogo com funções\\15 - Jogo com funções.csproj",
       "projectName": "15 - Jogo com funções",
-      "projectPath": "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\2º bimestre\\15 - Jogo com funções\\15 - Jogo com funções.csproj",
+      "projectPath": "C:\\Users\\malea\\OneDrive\\Documents\\GitHub\\Linguagem-CSharp\\2ºbimestre\\15 - Jogo com funções\\15 - Jogo com funções.csproj",
       "packagesPath": "C:\\Users\\malea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\2º bimestre\\15 - Jogo com funções\\obj\\",
+      "outputPath": "C:\\Users\\malea\\OneDrive\\Documents\\GitHub\\Linguagem-CSharp\\2ºbimestre\\15 - Jogo com funções\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\malea\\AppData\\Roaming\\NuGet\\NuGet.Config"
