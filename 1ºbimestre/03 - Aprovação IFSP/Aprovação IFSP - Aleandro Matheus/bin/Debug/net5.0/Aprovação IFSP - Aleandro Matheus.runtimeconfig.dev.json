@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\malea\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\malea\\.nuget\\packages"
+      "/home/aleandro/.dotnet/store/|arch|/|tfm|",
+      "/home/aleandro/.nuget/packages"
     ]
   }
 }

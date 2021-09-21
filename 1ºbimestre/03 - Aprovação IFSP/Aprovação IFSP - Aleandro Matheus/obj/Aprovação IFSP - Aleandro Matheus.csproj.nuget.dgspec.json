@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\03 - Aprovação IFSP\\Aprovação IFSP - Aleandro Matheus\\Aprovação IFSP - Aleandro Matheus.csproj": {}
+    "/home/aleandro/Documentos/GitHub/Linguagem-CSharp/1ºbimestre/03 - Aprovação IFSP/Aprovação IFSP - Aleandro Matheus/Aprovação IFSP - Aleandro Matheus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\03 - Aprovação IFSP\\Aprovação IFSP - Aleandro Matheus\\Aprovação IFSP - Aleandro Matheus.csproj": {
+    "/home/aleandro/Documentos/GitHub/Linguagem-CSharp/1ºbimestre/03 - Aprovação IFSP/Aprovação IFSP - Aleandro Matheus/Aprovação IFSP - Aleandro Matheus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\03 - Aprovação IFSP\\Aprovação IFSP - Aleandro Matheus\\Aprovação IFSP - Aleandro Matheus.csproj",
+        "projectUniqueName": "/home/aleandro/Documentos/GitHub/Linguagem-CSharp/1ºbimestre/03 - Aprovação IFSP/Aprovação IFSP - Aleandro Matheus/Aprovação IFSP - Aleandro Matheus.csproj",
         "projectName": "Aprovação IFSP - Aleandro Matheus",
-        "projectPath": "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\03 - Aprovação IFSP\\Aprovação IFSP - Aleandro Matheus\\Aprovação IFSP - Aleandro Matheus.csproj",
-        "packagesPath": "C:\\Users\\malea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\malea\\OneDrive\\Documents\\IFSP - 2021\\Linguagem de Programação I\\03 - Aprovação IFSP\\Aprovação IFSP - Aleandro Matheus\\obj\\",
+        "projectPath": "/home/aleandro/Documentos/GitHub/Linguagem-CSharp/1ºbimestre/03 - Aprovação IFSP/Aprovação IFSP - Aleandro Matheus/Aprovação IFSP - Aleandro Matheus.csproj",
+        "packagesPath": "/home/aleandro/.nuget/packages/",
+        "outputPath": "/home/aleandro/Documentos/GitHub/Linguagem-CSharp/1ºbimestre/03 - Aprovação IFSP/Aprovação IFSP - Aleandro Matheus/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\malea\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/aleandro/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

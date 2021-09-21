@@ -6,3 +6,6 @@
 *.txt
 *.targets
 *.dll
+*.json
+apphost
+
