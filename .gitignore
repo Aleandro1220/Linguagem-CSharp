@@ -1,11 +1,4 @@
-*.exe
-*.pdb
-*.props
-*.cache
-*.editorconfig
-*.txt
-*.targets
-*.dll
-*.json
-apphost
-
+*.csproj
+**/bin
+**/obj
+**/.vscode

@@ -1,2 +1,2 @@
 # Linguagem-CSharp
-Meus primeiros códigos que fiz durante o Ensino Médio no IFSP - Campus Cubatão no curso de técnico em informática. São simples, mas eficazes. Eu acho.
+Aqui estão meus códigos de aprendizado em C#, a linguagem de programação mãe de Aleandro Matheus. São simples, mas espero que sejam úteis.
